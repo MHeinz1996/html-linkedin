@@ -1,1 +1,222 @@
-/* write styles here */
+body {
+    margin: 0;
+    background-color: #f3f2ef; 
+}
+
+.nav-bar {
+    position: fixed;
+    top: 0;
+    height: 52px;
+    width: 100%;
+    background-color: white;
+    display: inline block;
+}
+
+#logo {
+    height: 34px;
+    width: 34px;
+    position: absolute;
+    left: 396px;
+    top: 9px;
+}
+
+#search {
+    height: 34px;
+    width: 280px;
+    position: absolute;
+    left: 438px;
+    top: 9px;
+    background-color: #eef3f8;
+    outline: none;
+    border-color: #eef3f8;
+    border-style: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 13px;
+    border-radius: 5px;
+}
+
+#home {
+    position: absolute;
+    font-size: 13px;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+    left: 887px;
+    bottom: 7px;
+    z-index: 200;
+    color: gray;
+}
+
+
+#houseIcon {
+    position: absolute;
+    left: 884px;
+    top: 0px;
+}
+
+#networkIcon {
+    position: absolute;
+    left: 964px;
+    top: 1px;
+}
+
+#myNetwork {
+
+    position: absolute;
+    font-size: 13px;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+    left: 950px;
+    bottom: 7px;
+    z-index: 200;
+    color: gray;
+
+}
+
+#jobs {
+
+    position: absolute;
+    font-size: 13px;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+    left: 1050px;
+    bottom: 7px;
+    z-index: 200;
+    color: gray;
+
+}
+
+#jobsIcon {
+    position: absolute;
+    left: 1042px;
+    top: 1px;
+}
+
+#messaging {
+
+    position: absolute;
+    font-size: 13px;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+    left: 1111px;
+    bottom: 7px;
+    z-index: 200;
+    color: gray;
+
+}
+
+#messagingIcon {
+    position: absolute;
+    left: 1125px;
+}
+
+#notifications {
+
+    position: absolute;
+    font-size: 13px;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+    left: 1188px;
+    bottom: 7px;
+    z-index: 200;
+    color: gray;
+
+}
+
+#notificationsIcon {
+    position: absolute;
+    left: 1204px;
+    top: 1px;
+}
+
+
+#me {
+
+    position: absolute;
+    font-size: 13px;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+    right: 615px;
+    bottom: 8px;
+    z-index: 200;
+    color: gray;
+
+}
+
+#arrow {
+
+    position: absolute;
+    font-size: 22px;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+    right: 600px;
+    top: 21px;
+    z-index: 200;
+    color: gray; 
+
+}
+
+#small_pfp {
+    height: 24px;
+    width: 24px;
+    position: absolute;
+    right: 605px;
+    top: 5px;
+    border-radius: 25px;
+}
+
+#work {
+
+    position: absolute;
+    font-size: 13px;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+    right: 530px;
+    bottom: 8px;
+    z-index: 200;
+    color: gray;
+
+}
+
+#workArrow {
+
+    position: absolute;
+    font-size: 22px;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+    right: 515px;
+    top: 21px;
+    z-index: 200;
+    color: gray; 
+
+}
+
+#workIcon {
+    position: absolute;
+    right: 514px;
+    top: 1px;
+
+}
+
+#premium {
+    position: absolute;
+    font-size: 13px;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+    right: 400px;
+    top: 9px;
+    z-index: 200;
+    color: #915907;
+
+}
+
+#free {
+    position: absolute;
+    font-size: 13px;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+    right: 435px;
+    top: 27px;
+    z-index: 200;
+    color: #915907;
+
+}
