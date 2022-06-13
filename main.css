@@ -297,3 +297,42 @@ body {
     left: 22px;
     font-family: system-ui,'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif;
 }
+
+#no_idea {
+    position: absolute;
+    right: 220px;
+    top: 59px;
+}
+
+#ctu_logo {
+    position: absolute;
+    right: 218px;
+    top: 98px;
+}
+
+#usaf {
+    position: absolute;
+    right: 136px;
+    top: 70px;
+    font-size: 14px;
+    font-weight: 563;
+    font-family: system-ui,'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#ctu_1 {
+    position: absolute;
+    right: 91px;
+    top: 104px;
+    font-size: 14px;
+    font-weight: 563;
+    font-family: system-ui,'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#ctu_2 {
+    position: absolute;
+    right: 149px;
+    top: 124px;
+    font-size: 14px;
+    font-weight: 563;
+    font-family: system-ui,'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif;
+}
